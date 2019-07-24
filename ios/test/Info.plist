@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>test</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>iransans_bold.ttf</string>
+		<string>iransans.ttf</string>
+		<string>Sp_Badr_p30download.com.ttf</string>
+		<string>Sp_Bardia Bold_p30download.com.ttf</string>
+		<string>Sp_Bardia Normal_p30download.com.ttf</string>
+		<string>Sp_Compset Bold_p30download.com.ttf</string>
+		<string>Sp_Compset Normal_p30download.com.ttf</string>
+		<string>Sp_Elham_p30download.com.ttf</string>
+		<string>Sp_Farnaz_p30download.com.ttf</string>
+		<string>Sp_Ferdosi_p30download.com.ttf</string>
+		<string>Sp_Hadi_p30download.com.ttf</string>
+		<string>Sp_Homa_p30download.com.ttf</string>
+		<string>Sp_Jadid Bold_p30download.com.ttf</string>
+		<string>Sp_Jalal Bold_p30download.com.ttf</string>
+		<string>Sp_Jalal Normal_p30download.com.ttf</string>
+		<string>Sp_Kamran Bold_p30download.com.ttf</string>
+		<string>Sp_Kamran_p30download.com.ttf</string>
+		<string>Sp_Karim Bold_p30download.com.ttf</string>
+		<string>Sp_Karim Normal_p30download.com.ttf</string>
+		<string>Sp_Koodak Bold_p30download.com.ttf</string>
+		<string>Sp_Lotus Bold_p30download.com.ttf</string>
+		<string>Sp_Lotus_p30download.com.ttf</string>
+		<string>Sp_Maryam Bold_p30download.com.ttf</string>
+		<string>Sp_Mehr Bold_p30download.com.ttf</string>
+		<string>Sp_Mina_p30download.com.ttf</string>
+		<string>Sp_Mitra Bold_p30download.com.ttf</string>
+		<string>Sp_Mitra Normal_p30download.com.ttf</string>
+		<string>Sp_Morvarid Bold_p30download.com.ttf</string>
+		<string>Sp_Morvarid Normal_p30download.com.ttf</string>
+		<string>Sp_Nasim Bold_p30download.com.ttf</string>
+		<string>Sp_Nazanin Bold_p30download.com.ttf</string>
+		<string>Sp_Nazanin_p30download.com.ttf</string>
+		<string>Sp_Owj Bold_p30download.com.ttf</string>
+		<string>Sp_Paatch Bold_p30download.com.ttf</string>
+		<string>Sp_Payam Normal_p30download.com.ttf</string>
+		<string>Sp_Roya Bold_p30download.com.ttf</string>
+		<string>Sp_Roya_p30download.com.ttf</string>
+		<string>Sp_Sina Bold_p30download.com.ttf</string>
+		<string>Sp_Soroosh_p30download.com.ttf</string>
+		<string>Sp_Tabassom_p30download.com.ttf</string>
+		<string>Sp_Titr Bold_p30download.com.ttf</string>
+		<string>Sp_Traffic_p30download.com.ttf</string>
+		<string>Sp_Vahid_p30download.com.ttf</string>
+		<string>Sp_Yagut Bold_p30download.com.ttf</string>
+		<string>Sp_Yagut_p30download.com.ttf</string>
+		<string>Sp_Zar Bold_p30download.com.ttf</string>
+		<string>Sp_Zar_p30download.com.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>IRANSansMobile_Bold.ttf</string>
+		<string>IRANSansMobile_Light.ttf</string>
+		<string>IRANSansMobile_Medium.ttf</string>
+		<string>IRANSansMobile_UltraLight.ttf</string>
+		<string>IRANSansMobile.ttf</string>
+	</array>
+</dict>
+</plist>
